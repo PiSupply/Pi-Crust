@@ -1,6 +1,8 @@
 Pi Crust
 ========
 
+Pi Crust - Easily Connect Electronics to the Raspberry Pi - https://www.pi-supply.com/product/pi-crust-easily-connect-electronics-to-your-raspberry-pi/
+
 This is a PCB that brings sanity to Raspberry Pi headers.
 
 ![Pi Crust PCB Layout](https://github.com/joewalnes/pi-crust/raw/master/images/pcb.png)
@@ -22,9 +24,3 @@ Features
 *   [More photos here](http://todayimade.co/items/joe-walnes-made-a-tiny-breakout-board-for-raspberry-pi)
 
 See [http://picru.st](http://picru.st) for more.
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joewalnes/pi-crust/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
