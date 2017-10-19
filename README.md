@@ -1,4 +1,4 @@
-![Alt text](https://user-images.githubusercontent.com/16068311/30545301-1a8b2a2e-9c81-11e7-855d-a095cf14262b.png?raw=true "Optional Title")
+![Alt text](https://user-images.githubusercontent.com/16068311/30545301-1a8b2a2e-9c81-11e7-855d-a095cf14262b.png?raw=true "Pi Crust Logo")
 Pi Crust
 ========
 
